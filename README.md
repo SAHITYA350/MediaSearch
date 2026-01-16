@@ -1,4 +1,6 @@
-# 🎨 Premium Media Search Application
+<img width="1865" height="890" alt="image" src="https://github.com/user-attachments/assets/284f2a92-86dd-43ed-b314-542cbb190801" />
+
+# 🎨 Media Search Application
 
 A modern, feature-rich media search application built with React, Redux Toolkit, and premium UI/UX design.
 
